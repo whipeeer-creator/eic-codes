@@ -1,0 +1,67 @@
+[
+  {
+    "code": "A44",
+    "name": "Price document",
+    "meaning": "Day-ahead prices"
+  },
+  {
+    "code": "A65",
+    "name": "System total load",
+    "meaning": "A01 forecast · A16 realised"
+  },
+  {
+    "code": "A69",
+    "name": "Wind and solar forecast",
+    "meaning": "A01 day-ahead · A18 intraday"
+  },
+  {
+    "code": "A71",
+    "name": "Generation forecast",
+    "meaning": ""
+  },
+  {
+    "code": "A73",
+    "name": "Actual generation",
+    "meaning": ""
+  },
+  {
+    "code": "A75",
+    "name": "Actual generation per type",
+    "meaning": "Counterpart to A69"
+  },
+  {
+    "code": "A77",
+    "name": "Production unavailability",
+    "meaning": ""
+  },
+  {
+    "code": "A80",
+    "name": "Generation unavailability",
+    "meaning": "Outages, urgent market messages"
+  },
+  {
+    "code": "A83",
+    "name": "Activated balancing energy",
+    "meaning": "aFRR / mFRR volumes"
+  },
+  {
+    "code": "A84",
+    "name": "Activated balancing prices",
+    "meaning": ""
+  },
+  {
+    "code": "A85",
+    "name": "Imbalance prices",
+    "meaning": ""
+  },
+  {
+    "code": "A86",
+    "name": "Imbalance volumes",
+    "meaning": ""
+  },
+  {
+    "code": "A89",
+    "name": "Contracted reserve prices",
+    "meaning": ""
+  }
+]

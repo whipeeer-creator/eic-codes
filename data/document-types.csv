@@ -1,0 +1,14 @@
+code,name,meaning
+A44,Price document,Day-ahead prices
+A65,System total load,A01 forecast · A16 realised
+A69,Wind and solar forecast,A01 day-ahead · A18 intraday
+A71,Generation forecast,
+A73,Actual generation,
+A75,Actual generation per type,Counterpart to A69
+A77,Production unavailability,
+A80,Generation unavailability,"Outages, urgent market messages"
+A83,Activated balancing energy,aFRR / mFRR volumes
+A84,Activated balancing prices,
+A85,Imbalance prices,
+A86,Imbalance volumes,
+A89,Contracted reserve prices,

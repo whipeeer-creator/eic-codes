@@ -1,0 +1,46 @@
+[
+  {
+    "code": "A01",
+    "name": "Day ahead"
+  },
+  {
+    "code": "A16",
+    "name": "Realised"
+  },
+  {
+    "code": "A18",
+    "name": "Intraday total"
+  },
+  {
+    "code": "A31",
+    "name": "Week ahead"
+  },
+  {
+    "code": "A32",
+    "name": "Month ahead"
+  },
+  {
+    "code": "A33",
+    "name": "Year ahead"
+  },
+  {
+    "code": "A40",
+    "name": "Intraday process"
+  },
+  {
+    "code": "A46",
+    "name": "Replacement reserve"
+  },
+  {
+    "code": "A47",
+    "name": "Manual frequency restoration reserve (mFRR)"
+  },
+  {
+    "code": "A51",
+    "name": "Automatic frequency restoration reserve (aFRR)"
+  },
+  {
+    "code": "A52",
+    "name": "Frequency containment reserve (FCR)"
+  }
+]

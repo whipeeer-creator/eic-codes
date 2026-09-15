@@ -1,0 +1,46 @@
+name,short,eic,note
+Austria,AT,10YAT-APG------L,Separated from DE-AT-LU on 1 Oct 2018
+Belgium,BE,10YBE----------2,
+Bulgaria,BG,10YCA-BULGARIA-R,
+Croatia,HR,10YHR-HEP------M,
+Czechia,CZ,10YCZ-CEPS-----N,
+Denmark 1,DK1,10YDK-1--------W,Synchronous with continental Europe
+Denmark 2,DK2,10YDK-2--------M,Synchronous with the Nordic system
+Estonia,EE,10Y1001A1001A39I,
+Finland,FI,10YFI-1--------U,
+France,FR,10YFR-RTE------C,
+Germany–Luxembourg,DE-LU,10Y1001A1001A82H,"One zone, four control areas"
+Germany–Austria–Lux (historic),DE-AT-LU,10Y1001A1001A63L,Valid until 30 Sep 2018; needed for older series
+Great Britain,GB,10YGB----------A,Half-hourly settlement periods
+Greece,GR,10YGR-HTSO-----Y,
+Hungary,HU,10YHU-MAVIR----U,
+Ireland (SEM),IE-SEM,10Y1001A1001A59C,All-island market with NI
+Italy North,IT-North,10Y1001A1001A73I,
+Italy Centre-North,IT-CNorth,10Y1001A1001A70O,
+Italy Centre-South,IT-CSouth,10Y1001A1001A71M,
+Italy South,IT-South,10Y1001A1001A788,Calabria split off in 2021
+Italy Calabria,IT-Calabria,10Y1001C--00096J,Zone created in 2021
+Italy Sicily,IT-Sicily,10Y1001A1001A75E,"Island, frequently decoupled"
+Italy Sardinia,IT-Sardinia,10Y1001A1001A74G,"Island, frequently decoupled"
+Latvia,LV,10YLV-1001A00074,
+Lithuania,LT,10YLT-1001A0008Q,
+Montenegro,ME,10YCS-CG-TSO---S,
+Netherlands,NL,10YNL----------L,
+North Macedonia,MK,10YMK-MEPSO----8,
+Norway 1 (Oslo),NO1,10YNO-1--------2,
+Norway 2 (Kristiansand),NO2,10YNO-2--------T,
+Norway 3 (Trondheim),NO3,10YNO-3--------J,
+Norway 4 (Tromsø),NO4,10YNO-4--------9,
+Norway 5 (Bergen),NO5,10Y1001A1001A48H,
+Poland,PL,10YPL-AREA-----S,15-minute settlement since the 2024 reform
+Portugal,PT,10YPT-REN------W,Coupled with Spain as MIBEL
+Romania,RO,10YRO-TEL------P,
+Serbia,RS,10YCS-SERBIATSOV,
+Slovakia,SK,10YSK-SEPS-----K,
+Slovenia,SI,10YSI-ELES-----O,"Coupled with IT, AT, HR, HU"
+Spain,ES,10YES-REE------0,Islands are separate systems
+Sweden 1 (Luleå),SE1,10Y1001A1001A44P,
+Sweden 2 (Sundsvall),SE2,10Y1001A1001A45N,
+Sweden 3 (Stockholm),SE3,10Y1001A1001A46L,
+Sweden 4 (Malmö),SE4,10Y1001A1001A47J,Often far above SE1
+Switzerland,CH,10YCH-SWISSGRIDZ,Not in EU market coupling

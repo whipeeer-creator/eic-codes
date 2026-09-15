@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Austria",
+    "short": "AT",
+    "eic": "10YAT-APG------L",
+    "note": "Separated from DE-AT-LU on 1 Oct 2018"
+  },
+  {
+    "name": "Belgium",
+    "short": "BE",
+    "eic": "10YBE----------2",
+    "note": ""
+  },
+  {
+    "name": "Bulgaria",
+    "short": "BG",
+    "eic": "10YCA-BULGARIA-R",
+    "note": ""
+  },
+  {
+    "name": "Croatia",
+    "short": "HR",
+    "eic": "10YHR-HEP------M",
+    "note": ""
+  },
+  {
+    "name": "Czechia",
+    "short": "CZ",
+    "eic": "10YCZ-CEPS-----N",
+    "note": ""
+  },
+  {
+    "name": "Denmark 1",
+    "short": "DK1",
+    "eic": "10YDK-1--------W",
+    "note": "Synchronous with continental Europe"
+  },
+  {
+    "name": "Denmark 2",
+    "short": "DK2",
+    "eic": "10YDK-2--------M",
+    "note": "Synchronous with the Nordic system"
+  },
+  {
+    "name": "Estonia",
+    "short": "EE",
+    "eic": "10Y1001A1001A39I",
+    "note": ""
+  },
+  {
+    "name": "Finland",
+    "short": "FI",
+    "eic": "10YFI-1--------U",
+    "note": ""
+  },
+  {
+    "name": "France",
+    "short": "FR",
+    "eic": "10YFR-RTE------C",
+    "note": ""
+  },
+  {
+    "name": "Germany–Luxembourg",
+    "short": "DE-LU",
+    "eic": "10Y1001A1001A82H",
+    "note": "One zone, four control areas"
+  },
+  {
+    "name": "Germany–Austria–Lux (historic)",
+    "short": "DE-AT-LU",
+    "eic": "10Y1001A1001A63L",
+    "note": "Valid until 30 Sep 2018; needed for older series"
+  },
+  {
+    "name": "Great Britain",
+    "short": "GB",
+    "eic": "10YGB----------A",
+    "note": "Half-hourly settlement periods"
+  },
+  {
+    "name": "Greece",
+    "short": "GR",
+    "eic": "10YGR-HTSO-----Y",
+    "note": ""
+  },
+  {
+    "name": "Hungary",
+    "short": "HU",
+    "eic": "10YHU-MAVIR----U",
+    "note": ""
+  },
+  {
+    "name": "Ireland (SEM)",
+    "short": "IE-SEM",
+    "eic": "10Y1001A1001A59C",
+    "note": "All-island market with NI"
+  },
+  {
+    "name": "Italy North",
+    "short": "IT-North",
+    "eic": "10Y1001A1001A73I",
+    "note": ""
+  },
+  {
+    "name": "Italy Centre-North",
+    "short": "IT-CNorth",
+    "eic": "10Y1001A1001A70O",
+    "note": ""
+  },
+  {
+    "name": "Italy Centre-South",
+    "short": "IT-CSouth",
+    "eic": "10Y1001A1001A71M",
+    "note": ""
+  },
+  {
+    "name": "Italy South",
+    "short": "IT-South",
+    "eic": "10Y1001A1001A788",
+    "note": "Calabria split off in 2021"
+  },
+  {
+    "name": "Italy Calabria",
+    "short": "IT-Calabria",
+    "eic": "10Y1001C--00096J",
+    "note": "Zone created in 2021"
+  },
+  {
+    "name": "Italy Sicily",
+    "short": "IT-Sicily",
+    "eic": "10Y1001A1001A75E",
+    "note": "Island, frequently decoupled"
+  },
+  {
+    "name": "Italy Sardinia",
+    "short": "IT-Sardinia",
+    "eic": "10Y1001A1001A74G",
+    "note": "Island, frequently decoupled"
+  },
+  {
+    "name": "Latvia",
+    "short": "LV",
+    "eic": "10YLV-1001A00074",
+    "note": ""
+  },
+  {
+    "name": "Lithuania",
+    "short": "LT",
+    "eic": "10YLT-1001A0008Q",
+    "note": ""
+  },
+  {
+    "name": "Montenegro",
+    "short": "ME",
+    "eic": "10YCS-CG-TSO---S",
+    "note": ""
+  },
+  {
+    "name": "Netherlands",
+    "short": "NL",
+    "eic": "10YNL----------L",
+    "note": ""
+  },
+  {
+    "name": "North Macedonia",
+    "short": "MK",
+    "eic": "10YMK-MEPSO----8",
+    "note": ""
+  },
+  {
+    "name": "Norway 1 (Oslo)",
+    "short": "NO1",
+    "eic": "10YNO-1--------2",
+    "note": ""
+  },
+  {
+    "name": "Norway 2 (Kristiansand)",
+    "short": "NO2",
+    "eic": "10YNO-2--------T",
+    "note": ""
+  },
+  {
+    "name": "Norway 3 (Trondheim)",
+    "short": "NO3",
+    "eic": "10YNO-3--------J",
+    "note": ""
+  },
+  {
+    "name": "Norway 4 (Tromsø)",
+    "short": "NO4",
+    "eic": "10YNO-4--------9",
+    "note": ""
+  },
+  {
+    "name": "Norway 5 (Bergen)",
+    "short": "NO5",
+    "eic": "10Y1001A1001A48H",
+    "note": ""
+  },
+  {
+    "name": "Poland",
+    "short": "PL",
+    "eic": "10YPL-AREA-----S",
+    "note": "15-minute settlement since the 2024 reform"
+  },
+  {
+    "name": "Portugal",
+    "short": "PT",
+    "eic": "10YPT-REN------W",
+    "note": "Coupled with Spain as MIBEL"
+  },
+  {
+    "name": "Romania",
+    "short": "RO",
+    "eic": "10YRO-TEL------P",
+    "note": ""
+  },
+  {
+    "name": "Serbia",
+    "short": "RS",
+    "eic": "10YCS-SERBIATSOV",
+    "note": ""
+  },
+  {
+    "name": "Slovakia",
+    "short": "SK",
+    "eic": "10YSK-SEPS-----K",
+    "note": ""
+  },
+  {
+    "name": "Slovenia",
+    "short": "SI",
+    "eic": "10YSI-ELES-----O",
+    "note": "Coupled with IT, AT, HR, HU"
+  },
+  {
+    "name": "Spain",
+    "short": "ES",
+    "eic": "10YES-REE------0",
+    "note": "Islands are separate systems"
+  },
+  {
+    "name": "Sweden 1 (Luleå)",
+    "short": "SE1",
+    "eic": "10Y1001A1001A44P",
+    "note": ""
+  },
+  {
+    "name": "Sweden 2 (Sundsvall)",
+    "short": "SE2",
+    "eic": "10Y1001A1001A45N",
+    "note": ""
+  },
+  {
+    "name": "Sweden 3 (Stockholm)",
+    "short": "SE3",
+    "eic": "10Y1001A1001A46L",
+    "note": ""
+  },
+  {
+    "name": "Sweden 4 (Malmö)",
+    "short": "SE4",
+    "eic": "10Y1001A1001A47J",
+    "note": "Often far above SE1"
+  },
+  {
+    "name": "Switzerland",
+    "short": "CH",
+    "eic": "10YCH-SWISSGRIDZ",
+    "note": "Not in EU market coupling"
+  }
+]
