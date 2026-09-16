@@ -103,8 +103,19 @@ required. A link back is welcome but not asked for.
 
 - [A practical guide to the ENTSO-E API](https://progrunners.com/entso-e-api/) —
   tokens, document types, resolutions and the errors that are not documented
-- [Live European electricity prices](https://progrunners.com/european-electricity-prices/) —
-  day-ahead prices for 38 zones, refreshed through the day
+- [Live European prices](https://progrunners.com/european-electricity-prices/) —
+  today's numbers for 38 zones, plus national pages in
+  [Spanish](https://progrunners.com/es/precio-luz-hoy/) ·
+  [German](https://progrunners.com/de/strompreis-boerse/) ·
+  [Estonian](https://progrunners.com/et/elektri-hind/) ·
+  [Finnish](https://progrunners.com/fi/sahkon-hinta/) ·
+  [Swedish](https://progrunners.com/sv/elpriser-idag/) ·
+  [Norwegian](https://progrunners.com/no/strompriser-i-dag/) ·
+  [Danish](https://progrunners.com/da/elpriser-i-dag/) ·
+  [Dutch](https://progrunners.com/nl/stroomprijs/) ·
+  [Polish](https://progrunners.com/pl/ceny-pradu/) ·
+  [French](https://progrunners.com/fr/prix-electricite/) ·
+  [Czech](https://progrunners.com/cs/spotova-cena-elektriny/)
 - Market data guides per country:
   [Germany](https://progrunners.com/market-data/germany/) ·
   [UK](https://progrunners.com/market-data/united-kingdom/) ·
