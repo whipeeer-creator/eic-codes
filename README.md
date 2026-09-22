@@ -101,6 +101,14 @@ required. A link back is welcome but not asked for.
 
 ## Related
 
+- [What is an EIC code?](https://progrunners.com/eic-codes/) — the 16-character
+  structure explained, with a searchable table of bidding zone codes
+- [nordpool-day-ahead](https://github.com/whipeeer-creator/nordpool-day-ahead) —
+  Nord Pool day-ahead prices for all 15 Nordic and Baltic zones, free, without a
+  Nord Pool subscription; live table at
+  [progrunners.com/nord-pool-day-ahead-prices](https://progrunners.com/nord-pool-day-ahead-prices/)
+- [ENTSO-E Transparency Platform without code](https://progrunners.com/entso-e-transparency-platform/) —
+  where the data is on the website and how to export it as CSV or XLSX
 - [A practical guide to the ENTSO-E API](https://progrunners.com/entso-e-api/) —
   tokens, document types, resolutions and the errors that are not documented
 - [Live European prices](https://progrunners.com/european-electricity-prices/) —
@@ -135,5 +143,5 @@ trading dashboards and market data pipelines for European power markets, and
 publish the parts that are useful on their own.
 
 **All of it in one place:** [progrunners.com/open-source](https://progrunners.com/open-source/)
-— six repositories, what each one is for, and the one mistake worth reading
+— seven repositories, what each one is for, and the one mistake worth reading
 about before you trust any price series, ours included.
